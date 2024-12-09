@@ -1,1 +1,1 @@
-from behave_webdriver.steps import * # ignore
+from behave_webdriver.steps import *
